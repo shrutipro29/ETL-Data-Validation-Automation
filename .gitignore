@@ -12,9 +12,6 @@ logs/
 # Generated reports
 reports/*.xlsx
 
-# Database credentials
-config/config.py
-
 # Virtual environment
 venv/
 .venv/
