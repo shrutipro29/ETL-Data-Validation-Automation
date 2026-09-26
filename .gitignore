@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# Pytest
+.pytest_cache/
+
+# Logs
+logs/
+*.log
+
+# Generated reports
+reports/*.xlsx
+
+# Database credentials
+config/config.py
+
+# Virtual environment
+venv/
+.venv/
+
+# VS Code
+.vscode/
